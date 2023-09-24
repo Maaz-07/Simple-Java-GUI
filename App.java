@@ -23,4 +23,8 @@ public class App {
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
+
+    public void newFunc(){
+        
+    }
 }
